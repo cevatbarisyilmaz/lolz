@@ -1,5 +1,5 @@
 # LOLZ
-LOLZ is an interpreted, esoteric programming language that only accepts letters 'l', 'o' and 'z'.
+LOLZ is an interpreted, esoteric programming language that only accepts letters 'l', 'o' and 'z'. See [wiki page](https://github.com/cevatbarisyilmaz/lolz/wiki) for detailed tutorial.
 ## A Quick Rundown What LOLZ Tries to Achieve
 ### Be Funny
 Well, at least pretending to be funny. That's still something. What other language lets you to build a software while writing "loolz" all the time?
