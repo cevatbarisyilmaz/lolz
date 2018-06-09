@@ -1,6 +1,6 @@
 # LOLZ
 LOLZ is an interpreted, esoteric programming language that only accepts letters 'l', 'o' and 'z'.
-## A Quick Rundown What LOLZ tries to achieve
+## A Quick Rundown What LOLZ Tries to Achieve
 ### Be Funny
 Well, at least pretending to be funny. That's still something. What other language lets you to build a software while writing "loolz" all the time?
 ### Save Your Job
