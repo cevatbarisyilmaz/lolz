@@ -6,7 +6,7 @@ Well, at least pretending to be funny. That's still something. What other langua
 ### Save Your Job
 Once you find a job in a company uses LOLZ, chances are that you will never be fired as long as they keep using LOLZ since the next guy hired will have 0 chance to maintain your code, while you still have that 1%.
 ### Get Rid of All The Error Handling Headache
-Who even likes trying to catch all the exceptions falling down everywhere? There is none of it in LOLZ. Because LOLZ does not have any exceptions or errors of any kind. Even division by 0 cannot disturb the peaceful flow of the program.
+Who even likes trying to catch all the exceptions falling down everywhere? There is none of it in LOLZ. Because LOLZ does not have any exceptions or errors of any kind, including parsing errors. Even division by 0 cannot disturb the peaceful flow of the program.
 ### Keep It Simple
 LOLZ only has one data type -why would you need anything else when you have strings?!- and 3 functions. So you don't have memorize all the function signatures or try to find out which types are compatible with each other.
 ### Make Everyting One-Liner
