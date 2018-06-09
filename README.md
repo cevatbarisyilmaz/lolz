@@ -4,7 +4,7 @@ LOLZ is an interpreted, esoteric programming language that only accepts letters 
 ### Be Funny
 Well, at least pretending to be funny. That's still something. What other language lets you to build a software while writing "lol" all the time?
 ### Save Your Job
-Once you find a job in a company uses LOLZ, chances are that you will never be fired as long as they keep using LOLZ since the next guy hired will have 0 chance to maintain your code, while you still have that 1% chance.
+Once you find a job in a company uses LOLZ, chances are that you will never be fired as long as they keep using LOLZ since the next guy hired will have 0 chance to maintain your code, while you still have that 1%.
 ### Get Rid of All The Error Handling Headache
 Who even likes trying to catch all the exceptions falling down everywhere? There is none of it in LOLZ. Because LOLZ does not have any exceptions or errors of any kind. Even division by 0 cannot disturb the peaceful flow of the program.
 ### Keep It Simple
