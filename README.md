@@ -9,7 +9,7 @@ Once you find a job in a company uses LOLZ, chances are that you will never be f
 Who even likes trying to catch all the exceptions falling down everywhere? There is none of it in LOLZ. Because LOLZ does not have any exceptions or errors of any kind, including parsing errors. Even division by 0 cannot disturb the peaceful flow of the program.
 ### Keep It Simple
 LOLZ only has one data type -why would you need anything else when you have strings?!- and 3 functions. So you don't have memorize all the function signatures or try to find out which types are compatible with each other.
-### Make Everyting One-Liner
+### Make Everything One-Liner
 Since LOLZ does not care about newlines or semicolons, you can write whole programs using just one line, well, except that one line may turn out to be a pretty long one.
 ## Some Sample Programs
 ### Hello World
