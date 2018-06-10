@@ -16,3 +16,7 @@ Since LOLZ does not care about newlines or semicolons, you can write whole progr
 <code>lozozlooozlllzlzloozlzlollzlzlollzlzlllozllozlzlollolzlllozlzlooollzlollzlzllzlllolz</code>
 ### Fibonacci
 <code>ozozlozloozlzloololzzozlozloololzzozozlzlzllzozloololozzlollzllollzozlooloozzozllzlzozllzlzllzlozozlzllzlozozlozllzllzozozlzlzllzozloololzzzlozozllzlozlozozloolllzz</code>
+## Setup
+1. Download: <code>go get github.com/cevatbarisyilmaz/lolz</code>
+2. Build: <code>go build lolz</code>
+3. Run <code>lolz <path_to_program.lolz></code>
