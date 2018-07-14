@@ -2,10 +2,10 @@ package main
 
 import (
 	"os"
-	"github.com/cevatbarisyilmaz/lolz/reader"
-	"github.com/cevatbarisyilmaz/lolz/lexer"
-	"github.com/cevatbarisyilmaz/lolz/parser"
-	"github.com/cevatbarisyilmaz/lolz/executor"
+	reader "github.com/cevatbarisyilmaz/lolz/reader"
+	lexer "github.com/cevatbarisyilmaz/lolz/lexer"
+	parser "github.com/cevatbarisyilmaz/lolz/parser"
+	executor "github.com/cevatbarisyilmaz/lolz/executor"
 )
 
 func main() {
