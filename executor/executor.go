@@ -1,6 +1,6 @@
 package executor
 
-import "lolz/parser"
+import "github.com/cevatbarisyilmaz/lolz/parser"
 
 func Execute(parseNodes []*parser.Node){
 	scope := make(map[int]string)
