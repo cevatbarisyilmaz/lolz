@@ -1,10 +1,10 @@
 package executor
 
-import parser "github.com/cevatbarisyilmaz/lolz/parser"
+import "github.com/cevatbarisyilmaz/lolz/parser"
 
-func Execute(parseNodes []*parser.Node){
+func Execute(parseNodes []*parser.Node) {
 	scope := make(map[int]string)
-	for _, node := range parseNodes{
+	for _, node := range parseNodes {
 		(*node).Execute(&scope)
 	}
 }

@@ -2,17 +2,17 @@ package lexer
 
 import "bufio"
 
-const(
+const (
 	o = iota
 	l
 	z
 )
 
-func Lex(reader *bufio.Reader) ([]int){
+func Lex(reader *bufio.Reader) []int {
 	tokens := make([]int, 0)
 	for {
-		r, _ ,err := reader.ReadRune()
-		if err != nil{
+		r, _, err := reader.ReadRune()
+		if err != nil {
 			return tokens
 		}
 		switch r {
